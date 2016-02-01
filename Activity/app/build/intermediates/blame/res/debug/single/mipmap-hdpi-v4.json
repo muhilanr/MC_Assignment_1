@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ASU\\CSE535 Mobile Computing\\Sourcecode\\CSE535Example1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\ASU\\CSE535 Mobile Computing\\Sourcecode\\CSE535Example1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S N Rao\\Android Projects\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\S N Rao\\Android Projects\\Activity\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sameeran\\Android Projects\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Sameeran\\Android Projects\\Activity\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
